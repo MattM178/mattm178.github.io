@@ -5,7 +5,7 @@ oknavbar_entries:
   - title: blog
     url: blog
 
- - title: website
+  - title: website
     url: https://www.matthewmoss.net
 
 project_entries:
@@ -17,17 +17,6 @@ project_entries:
   - title: Processing Traffic Reports
     url: https://github.com/MattM178/Traffic-Reports-to-GIS
     desc: This project involves taking excel and pdf outputs of traffic/speed count reports and converting them to an AGO feature layer
-
-#  - title: Project 5
-#    url: overview-post
-#    desc: Moonwalk also has horizontal list (used in header and footer)
-#    highlight: WIP
-
-# old_project_entries:
-#  - title: Soopr
-#    url: https://www.soopr.co
-#    desc: Delight your readers - add beautiful share and like buttons easily to your websites 
-#    highlight: NEW
 
 footer_entries:
 
@@ -71,5 +60,4 @@ misc_entries:
 
           - title: it is easy to use, see _data/home.yml to see how to configure it.
             url: false
-
 
