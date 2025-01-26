@@ -12,11 +12,12 @@ project_entries:
   - title: OTP Isochrones
     url: https://github.com/MattM178/Open-Trip-Planner-Isochrones
     desc: This python script generates transit isochrones using an OpenTripPlanner server
-    highlight: Latest
+    highlight: Latest-Code
 
   - title: Processing Traffic Reports
     url: https://github.com/MattM178/Traffic-Reports-to-GIS
     desc: This project involves taking excel and pdf outputs of traffic/speed count reports and converting them to an AGO feature layer
+    highlight: Code
 
 footer_entries:
 
