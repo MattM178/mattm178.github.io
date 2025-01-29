@@ -24,6 +24,16 @@ project_entries:
     desc: An overview of a whitepaper I wrote describing the need and opportunity for Social Housing in Cleveland.
     highlight: Policy
 
+  - title: 15-Minute City Planning Framework
+    url: https://storymaps.arcgis.com/stories/6d5563926ef3449fbcbaf73d00eeac66
+    desc: A storymap introducing the concept of 15-minute cities and how Cleveland is embracing it.
+    highlight: Policy
+
+  - title: Transit Oriented Development in Cleveland
+    url: https://storymaps.arcgis.com/stories/9b1f271d104b4e8f9bc2d19ac03732c0
+    desc: A storymap demonstrating the opporunity and advantages of TOD in Cleveland.
+    highlight: Policy
+
 footer_entries:
 
   - title: bluesky
