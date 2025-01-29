@@ -20,7 +20,9 @@ project_entries:
     highlight: Code
 
   - title: Social Housing Model
-    url: 
+    url: https://www.matthewmoss.net/social-housing-framework
+    desc: An overview of a whitepaper I wrote describing the need and opportunity for Social Housing in Cleveland.
+    hightlight: Policy
 
 footer_entries:
 
